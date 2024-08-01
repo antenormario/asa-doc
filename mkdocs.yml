@@ -1,2 +1,11 @@
 site_name: Antenor
 site_dir: /var/www/html/antenor
+
+# Configuração das páginas
+nav: 
+- Home: index.md
+- Instalando LAMP: instalandoolamp.md
+- Criando o banco de dados mariadb: criandobancosdedadosnomariadb.md
+- Configurando arquivos: configurandoarquivos.md
+- Sobre a disciplina de asa: sobreadisciplinadeasa.md
+- Sobre o curso de redes: sobreocursoderedes.md
