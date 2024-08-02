@@ -1,6 +1,6 @@
 # Redes de Computadores
 
-## Sobre o curso:
+# Sobre o curso:
 
 O Curso Técnico Subsequente em Redes de Computadores, forma profissionais que instalam e configuram dispositivos de comunicação digital
 e programas de computadores em equipamentos de rede; executam diagnóstico e corrige falhas em redes de computadores;
