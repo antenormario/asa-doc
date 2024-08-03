@@ -6,7 +6,7 @@ Antenor Mario é aluno de Redes de Computadores, matriculado no IFRN PARNAMIRIM,
 
 ## Atividade de Criar Sites (Um dinâmico e outro estático)
 
-Atividade de Asa, criação de sites, um dinâmico e outro esático. 
+Atividade de Asa, criação de sites, um dinâmico e outro estático. 
 
 A atividade é o seguinte:
 

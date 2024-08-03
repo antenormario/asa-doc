@@ -22,7 +22,7 @@ Ficara assim no `www.antenor.lab.conf`
 
 Nesse exemplo o diretório do meu site se chama 'Antenor'.
 
-OBS: No caso da criação de um site usando o (mkdocs) o documentroot apontara dessa forma.
+OBS: No caso da criação de um site usando o (mkdocs) o documentroot apontara dessa forma:
 
 -   Ex: Documentroot:  /var/www/docs/site
 
