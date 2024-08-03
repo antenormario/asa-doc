@@ -34,3 +34,34 @@ Fazer um link de (www.conf e docs.conf) para /etc/apache2/sites-enabled.
 ou
 
 -   a2ensite nome_do_arquivo
+
+```
+<VirtualHost *:80>
+    ServerName docs.antenor.lab
+    DocumentRoot /var/www/html/antenor/
+
+    <Directory /var/www/html/antenor/>
+        Options Indexes FollowSymLinks MultiViews
+        AllowOverride All
+        Require all granted
+    </Directory>
+</VirtualHost>
+
+```
+
+```
+VirtualHost *:80>
+
+        ServerName www.antenor.lab
+
+        ServerAdmin webmaster@localhost
+        DocumentRoot /var/www/html/apple/wordpress/
+
+        ErrorLog ${APACHE_LOG_DIR}/error.log
+        CustomLog ${APACHE_LOG_DIR}/access.log combined
+
+</VirtualHost>
+
+
+
+```

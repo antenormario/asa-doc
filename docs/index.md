@@ -14,8 +14,8 @@ Usando um servidor HTTP!
 
 Tive que publicar dois (2) sites em um servidor HTTP de minha escolha. O servidor deverá responder às seguintes URLs:
 
-- http://docs.antenor.lab
-- http://www.antenor.lab
+- <http://docs.antenor.lab>
+- <http://www.antenor.lab>
   
 Requisitos
 
