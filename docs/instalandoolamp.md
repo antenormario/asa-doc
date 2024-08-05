@@ -33,7 +33,7 @@ mkdocs-*: MkDocs é uma ferramenta de documentação que gera sites a partir de 
 
 O comando que você forneceu é:
 
-apt install -y apache2 php mariadb-server libapache2-mod-php php-mysql curl mkdocs-*
+`apt install -y apache2 php mariadb-server libapache2-mod-php php-mysql curl mkdocs-*`
 
 ### Aqui está o que cada parte faz:
 
